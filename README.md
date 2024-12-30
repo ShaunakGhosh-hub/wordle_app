@@ -15,9 +15,7 @@ App allows to play in one of three modes. You can guess 5, 6, or 9 letter word.
 
 <img src="pics/main.png" alt="Main pictures" height="800"/>
 
-In app there is short instruction of game rules.
 
-<img src="pics/ins.png" alt="Instructions" height="800"/>
 
 In the game you have to guess word and click enter to validate it. After each guess the color of the tiles will change to show how close your guess was to word. To change the word to guess click restart button in the upper right corner. Example of the game below:
 
@@ -27,6 +25,3 @@ In the game you have to guess word and click enter to validate it. After each gu
 
 To build app I use library from [sjp.pl](https://sjp.pl/slownik/odmiany/).
 
-## License
-
-[MIT License](LICENSE.md)
