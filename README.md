@@ -1,37 +1,3 @@
-# Wordle - polish version
-
-English text below. <br><br>
-
-
-## Inspiracja
-
-Aplikacja powstała na bazie znanej aplikacji webowej [Wordle](https://www.nytimes.com/games/wordle/index.html). Dlaczego ją napisałem? Po pierwsze chciałem nauczyć się pisać aplikacje na system android w Javie. Po drugie nie chciałem czekać całej doby na nowe hasło. Aplikacja powstała w jezyku Polskim.
-
-## Jak uruchomić
-
-Aby skorzystać z aplikacji należy pobrać jej skompresowaną wersję [app/release/app-release.apk](https://github.com/gregori0o/wordle_app/blob/master/app/release/app-release.apk) i zainstalować na swoim smartfonie.
-
-## Aplikacja
-
-Aplikacja pozwala na granie w jednym z trzech trybów. Odgadujemy hasło 5, 6 lub 9 literowe.
-
-<img src="pics/main.png" alt="Main pictures" height="800"/>
-
-Mamy również krótką instrukcję informującą o zasadach gry.
-
-<img src="pics/ins.png" alt="Instructions" height="800"/>
-
-Gra polega na wpisywaniu kolejnych haseł, próbując odgadnąć właściwe. Po każdym wpisie dostajemy informację zwrotną w postaci odpowiedniego kolorowania pól. Aby zmienić odgadywane hasło wystarczy wcisnąć przycisk restart w prawym górnym rogu. Przykładowa rozgrywka wygląda następująco:
-
-<img src="pics/game.png" alt="Game" height="800"/>
-
-## Słownik
-
-Do zbudowania aplikacji skorzystałem ze słownika udostępnionego na stronie [sjp.pl](https://sjp.pl/slownik/odmiany/).
-
-## Licencja
-
-[MIT License](LICENSE.md)
 
 <hr><br>
 
